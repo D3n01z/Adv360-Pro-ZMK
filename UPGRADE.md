@@ -55,7 +55,7 @@ This assumes you already have [GitHub desktop](https://desktop.github.com/) down
 
     ![The merge dialog showing a warning of conflicts](/assets/conflict.jpg)
 8. Push
-
+ 
     Once the merge is complete you should be able to click the "push origin" button in the top bar. At this point your changes should be uploaded to GitHub servers and the build should start
 9. Test your firmware
 
